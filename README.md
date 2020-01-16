@@ -2,7 +2,7 @@
 
 **Note: The notebooks in this repository are a work in progress!**
 
-This repository containts Interactive Jupyter notebooks to demonstrate essential protein design concepts using PyRosetta and PyMOL. A basic knowledge of proteins is assumed.
+This repository contains Interactive Jupyter notebooks to demonstrate essential protein design concepts using PyRosetta and PyMOL. A basic knowledge of proteins is assumed.
 
 These notebooks are being developed by James Lucas for UC Berkeley BIOENG C219 Protein Engineering. 
 
@@ -35,3 +35,6 @@ Navigate to this repository on your computer and run `jupyter notebook` from the
 1. Introduciton to PyMOL
 2. Protein Degrees of Freedom
 3. Rosetta Basics and Design Algorithms
+4. De Novo Design of an Enzyme
+5. ???
+6. Machine Learning Applied to Protein Design
