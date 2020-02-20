@@ -1,3 +1,6 @@
+# Author: XingJie Pan
+# https://github.com/Kortemme-Lab/loop_helix_loop_reshaping/blob/master/loop_helix_loop_reshaping/simple_pose_moves.py
+
 import pyrosetta
 from pyrosetta import rosetta
 
